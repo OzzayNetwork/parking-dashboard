@@ -131,41 +131,41 @@ $(function () {
             name: 'Private',
             data: [{
 
-                name: 'CBD',
+                name: 'Homa Bay Town',
                 y: 5,
                 drilldown: 'Private-CBD',
                 //color: '#e7c500' //yellow
             }, {
-                name: 'Kijabe',
+                name: 'Ndhiwa',
                 y: 2,
                 drilldown: 'Private-Kijabe',
                 //color: '#e7c500' //yellow
             }, {
-                name: 'Westlands',
+                name: 'Rachuonyo-North',
                 y: 4,
-                drilldown: 'Private-Westlands',
+                drilldown: 'Private-Rachuonyo-North',
                 //color: '#e7c500' //yellow
             }, {
 
-                name: 'Kilimani',
+                name: 'Rachuonyo-South',
                 y: 5,
-                drilldown: 'Private-Kilimani',
+                drilldown: 'Private-Rachuonyo-South',
                 //color: '#e7c500' //yellow
             }, {
-                name: 'Upper-Hill',
+                name: 'Rachuonyo-East',
                 y: 2,
-                drilldown: 'Private-Upper-Hill',
+                drilldown: 'Private-Rachuonyo-East',
                 //color: '#e7c500' //yellow
             }, {
-                name: 'Kombo',
+                name: 'Rangwe',
                 y: 4,
-                drilldown: 'Private-Kombo',
+                drilldown: 'Private-Rangwe',
                 //color: '#e7c500' //yellow
             }, {
 
-                name: 'Comm',
+                name: 'Suba-North',
                 y: 5,
-                drilldown: 'Private-Comm',
+                drilldown: 'Private-Suba-North',
                 //color: '#e7c500' //yellow
             }, {
                 name: 'Ngara',
@@ -173,25 +173,25 @@ $(function () {
                 drilldown: 'Private-Ngara',
                 //color: '#e7c500' //yellow
             }, {
-                name: 'Highridge',
+                name: 'Kalanya',
                 y: 4,
-                drilldown: 'Private-Highridge',
+                drilldown: 'Private-Kalanya',
                 //color: '#e7c500' //yellow
             }, {
 
-                name: 'Ind. Area',
+                name: 'Kalanya',
                 y: 15,
-                drilldown: 'Private-Ind. Area',
+                drilldown: 'Private-Kalanya',
                 //color: '#e7c500' //yellow
             }, {
-                name: 'Yaya',
+                name: 'Kanyabala',
                 y: 2,
-                drilldown: 'Private-Yaya',
+                drilldown: 'Private-Kanyabala',
                 //color: '#e7c500' //yellow
             }, {
-                name: 'Buru',
+                name: 'Katuma',
                 y: 4,
-                drilldown: 'Private-Buru',
+                drilldown: 'Private-Katuma',
                 //color: '#e7c500' //yellow
             }]
             //end of Private collections
@@ -199,39 +199,39 @@ $(function () {
             //Pickup collections
             name: 'Pickups',
             data: [{
-                name: 'CBD',
+                name: 'Homa Bay Town',
                 y: 11,
                 drilldown: 'pickup-CBD',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kijabe',
+                name: 'Ndhiwa',
                 y: 5,
                 drilldown: 'pickup-Kijabe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Westlands',
+                name: 'Rachuonyo-North',
                 y: 2,
-                drilldown: 'pickup-Westlands',
+                drilldown: 'pickup-Rachuonyo-North',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kilimani',
+                name: 'Rachuonyo-South',
                 y: 1,
-                drilldown: 'pickup-Kilimani',
+                drilldown: 'pickup-Rachuonyo-South',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Upper-Hill',
+                name: 'Rachuonyo-East',
                 y: 5,
-                drilldown: 'pickup-Upper-Hill',
+                drilldown: 'pickup-Rachuonyo-East',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kombo',
+                name: 'Rangwe',
                 y: 21,
-                drilldown: 'pickup-Kombo',
+                drilldown: 'pickup-Rangwe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Comm',
+                name: 'Suba-North',
                 y: 11,
-                drilldown: 'pickup-Comm',
+                drilldown: 'pickup-Suba-North',
                 //color: '#0aae8f' // blue
             }, {
                 name: 'Ngara',
@@ -239,24 +239,24 @@ $(function () {
                 drilldown: 'pickup-Ngara',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Highridge',
+                name: 'Kalanya',
                 y: 2,
-                drilldown: 'pickup-Highridge',
+                drilldown: 'pickup-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Ind. Area',
+                name: 'Kalanya',
                 y: 1,
-                drilldown: 'pickup-Ind. Area',
+                drilldown: 'pickup-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Yaya',
+                name: 'Kanyabala',
                 y: 5,
-                drilldown: 'pickup-Yaya',
+                drilldown: 'pickup-Kanyabala',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Buru',
+                name: 'Katuma',
                 y: 2,
-                drilldown: 'pickup-Buru',
+                drilldown: 'pickup-Katuma',
                 //color: '#0aae8f' // blue
             }]
             //end of Pickup collections
@@ -264,39 +264,39 @@ $(function () {
             //Nissan collections
             name: 'Nissan',
             data: [{
-                name: 'CBD',
+                name: 'Homa Bay Town',
                 y: 16,
                 drilldown: 'nissan-CBD',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kijabe',
+                name: 'Ndhiwa',
                 y: 15,
                 drilldown: 'nissan-Kijabe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Westlands',
+                name: 'Rachuonyo-North',
                 y: 3,
-                drilldown: 'nissan-Westlands',
+                drilldown: 'nissan-Rachuonyo-North',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kilimani',
+                name: 'Rachuonyo-South',
                 y: 1,
-                drilldown: 'nissan-Kilimani',
+                drilldown: 'nissan-Rachuonyo-South',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Upper-Hill',
+                name: 'Rachuonyo-East',
                 y: 5,
-                drilldown: 'nissan-Upper-Hill',
+                drilldown: 'nissan-Rachuonyo-East',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kombo',
+                name: 'Rangwe',
                 y: 2,
-                drilldown: 'nissan-Kombo',
+                drilldown: 'nissan-Rangwe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Comm',
+                name: 'Suba-North',
                 y: 11,
-                drilldown: 'nissan-Comm',
+                drilldown: 'nissan-Suba-North',
                 //color: '#0aae8f' // blue
             }, {
                 name: 'Ngara',
@@ -304,24 +304,24 @@ $(function () {
                 drilldown: 'nissan-Ngara',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Highridge',
+                name: 'Kalanya',
                 y: 2,
-                drilldown: 'nissan-Highridge',
+                drilldown: 'nissan-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Ind. Area',
+                name: 'Kalanya',
                 y: 1,
-                drilldown: 'nissan-Ind. Area',
+                drilldown: 'nissan-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Yaya',
+                name: 'Kanyabala',
                 y: 5,
-                drilldown: 'nissan-Yaya',
+                drilldown: 'nissan-Kanyabala',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Buru',
+                name: 'Katuma',
                 y: 2,
-                drilldown: 'nissan-Buru',
+                drilldown: 'nissan-Katuma',
                 //color: '#0aae8f' // blue
             }]
             //end of Nissan collections
@@ -329,39 +329,39 @@ $(function () {
             //Canter collections
             name: 'Canter',
             data: [{
-                name: 'CBD',
+                name: 'Homa Bay Town',
                 y: 11,
                 drilldown: 'canter-CBD',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kijabe',
+                name: 'Ndhiwa',
                 y: 15,
                 drilldown: 'canter-Kijabe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Westlands',
+                name: 'Rachuonyo-North',
                 y: 12,
-                drilldown: 'canter-Westlands',
+                drilldown: 'canter-Rachuonyo-North',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kilimani',
+                name: 'Rachuonyo-South',
                 y: 19,
-                drilldown: 'canter-Kilimani',
+                drilldown: 'canter-Rachuonyo-South',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Upper-Hill',
+                name: 'Rachuonyo-East',
                 y: 15,
-                drilldown: 'canter-Upper-Hill',
+                drilldown: 'canter-Rachuonyo-East',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kombo',
+                name: 'Rangwe',
                 y: 21,
-                drilldown: 'canter-Kombo',
+                drilldown: 'canter-Rangwe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Comm',
+                name: 'Suba-North',
                 y: 11,
-                drilldown: 'canter-Comm',
+                drilldown: 'canter-Suba-North',
                 //color: '#0aae8f' // blue
             }, {
                 name: 'Ngara',
@@ -369,24 +369,24 @@ $(function () {
                 drilldown: 'canter-Ngara',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Highridge',
+                name: 'Kalanya',
                 y: 2,
-                drilldown: 'canter-Highridge',
+                drilldown: 'canter-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Ind. Area',
+                name: 'Kalanya',
                 y: 13,
-                drilldown: 'canter-Ind. Area',
+                drilldown: 'canter-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Yaya',
+                name: 'Kanyabala',
                 y: 5,
-                drilldown: 'canter-Yaya',
+                drilldown: 'canter-Kanyabala',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Buru',
+                name: 'Katuma',
                 y: 2,
-                drilldown: 'canter-Buru',
+                drilldown: 'canter-Katuma',
                 //color: '#0aae8f' // blue
             }]
             //end of Canter collections
@@ -394,39 +394,39 @@ $(function () {
             //Lorry rents
             name: 'Lorry',
             data: [{
-                name: 'CBD',
+                name: 'Homa Bay Town',
                 y: 1,
                 drilldown: 'lorry-CBD',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kijabe',
+                name: 'Ndhiwa',
                 y: 15,
                 drilldown: 'lorry-Kijabe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Westlands',
+                name: 'Rachuonyo-North',
                 y: 2,
-                drilldown: 'lorry-Westlands',
+                drilldown: 'lorry-Rachuonyo-North',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kilimani',
+                name: 'Rachuonyo-South',
                 y: 1,
-                drilldown: 'lorry-Kilimani',
+                drilldown: 'lorry-Rachuonyo-South',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Upper-Hill',
+                name: 'Rachuonyo-East',
                 y: 15,
-                drilldown: 'lorry-Upper-Hill',
+                drilldown: 'lorry-Rachuonyo-East',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kombo',
+                name: 'Rangwe',
                 y: 2,
-                drilldown: 'lorry-Kombo',
+                drilldown: 'lorry-Rangwe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Comm',
+                name: 'Suba-North',
                 y: 11,
-                drilldown: 'lorry-Comm',
+                drilldown: 'lorry-Suba-North',
                 //color: '#0aae8f' // blue
             }, {
                 name: 'Ngara',
@@ -434,24 +434,24 @@ $(function () {
                 drilldown: 'lorry-Ngara',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Highridge',
+                name: 'Kalanya',
                 y: 7,
-                drilldown: 'lorry-Highridge',
+                drilldown: 'lorry-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Ind. Area',
+                name: 'Kalanya',
                 y: 13,
-                drilldown: 'lorry-Ind. Area',
+                drilldown: 'lorry-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Yaya',
+                name: 'Kanyabala',
                 y: 5,
-                drilldown: 'lorry-Yaya',
+                drilldown: 'lorry-Kanyabala',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Buru',
+                name: 'Katuma',
                 y: 2,
-                drilldown: 'lorry-Buru',
+                drilldown: 'lorry-Katuma',
                 //color: '#0aae8f' // blue
             }]
             //end of lorry collections
@@ -459,39 +459,39 @@ $(function () {
             //Minibus rents
             name: 'Minibus',
             data: [{
-                name: 'CBD',
+                name: 'Homa Bay Town',
                 y: 1,
                 drilldown: 'minibus-CBD',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kijabe',
+                name: 'Ndhiwa',
                 y: 15,
                 drilldown: 'minibus-Kijabe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Westlands',
+                name: 'Rachuonyo-North',
                 y: 2,
-                drilldown: 'minibus-Westlands',
+                drilldown: 'minibus-Rachuonyo-North',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kilimani',
+                name: 'Rachuonyo-South',
                 y: 1,
-                drilldown: 'minibus-Kilimani',
+                drilldown: 'minibus-Rachuonyo-South',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Upper-Hill',
+                name: 'Rachuonyo-East',
                 y: 15,
-                drilldown: 'minibus-Upper-Hill',
+                drilldown: 'minibus-Rachuonyo-East',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kombo',
+                name: 'Rangwe',
                 y: 2,
-                drilldown: 'minibus-Kombo',
+                drilldown: 'minibus-Rangwe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Comm',
+                name: 'Suba-North',
                 y: 11,
-                drilldown: 'minibus-Comm',
+                drilldown: 'minibus-Suba-North',
                 //color: '#0aae8f' // blue
             }, {
                 name: 'Ngara',
@@ -499,24 +499,24 @@ $(function () {
                 drilldown: 'minibus-Ngara',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Highridge',
+                name: 'Kalanya',
                 y: 7,
-                drilldown: 'minibus-Highridge',
+                drilldown: 'minibus-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Ind. Area',
+                name: 'Kalanya',
                 y: 13,
-                drilldown: 'minibus-Ind. Area',
+                drilldown: 'minibus-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Yaya',
+                name: 'Kanyabala',
                 y: 5,
-                drilldown: 'minibus-Yaya',
+                drilldown: 'minibus-Kanyabala',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Buru',
+                name: 'Katuma',
                 y: 2,
-                drilldown: 'minibus-Buru',
+                drilldown: 'minibus-Katuma',
                 //color: '#0aae8f' // blue
             }]
             //end of minibus collections
@@ -524,39 +524,39 @@ $(function () {
             //Bus rents
             name: 'Bus',
             data: [{
-                name: 'CBD',
+                name: 'Homa Bay Town',
                 y: 1,
                 drilldown: 'bus-CBD',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kijabe',
+                name: 'Ndhiwa',
                 y: 15,
                 drilldown: 'bus-Kijabe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Westlands',
+                name: 'Rachuonyo-North',
                 y: 2,
-                drilldown: 'bus-Westlands',
+                drilldown: 'bus-Rachuonyo-North',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kilimani',
+                name: 'Rachuonyo-South',
                 y: 1,
-                drilldown: 'bus-Kilimani',
+                drilldown: 'bus-Rachuonyo-South',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Upper-Hill',
+                name: 'Rachuonyo-East',
                 y: 15,
-                drilldown: 'bus-Upper-Hill',
+                drilldown: 'bus-Rachuonyo-East',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kombo',
+                name: 'Rangwe',
                 y: 2,
-                drilldown: 'bus-Kombo',
+                drilldown: 'bus-Rangwe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Comm',
+                name: 'Suba-North',
                 y: 11,
-                drilldown: 'bus-Comm',
+                drilldown: 'bus-Suba-North',
                 //color: '#0aae8f' // blue
             }, {
                 name: 'Ngara',
@@ -564,24 +564,24 @@ $(function () {
                 drilldown: 'bus-Ngara',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Highridge',
+                name: 'Kalanya',
                 y: 7,
-                drilldown: 'bus-Highridge',
+                drilldown: 'bus-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Ind. Area',
+                name: 'Kalanya',
                 y: 13,
-                drilldown: 'bus-Ind. Area',
+                drilldown: 'bus-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Yaya',
+                name: 'Kanyabala',
                 y: 5,
-                drilldown: 'bus-Yaya',
+                drilldown: 'bus-Kanyabala',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Buru',
+                name: 'Katuma',
                 y: 2,
-                drilldown: 'bus-Buru',
+                drilldown: 'bus-Katuma',
                 //color: '#0aae8f' // blue
             }]
             //end of bus collections
@@ -589,39 +589,39 @@ $(function () {
             //Trailer rents
             name: 'Trailer',
             data: [{
-                name: 'CBD',
+                name: 'Homa Bay Town',
                 y: 1,
                 drilldown: 'trailer-CBD',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kijabe',
+                name: 'Ndhiwa',
                 y: 15,
                 drilldown: 'trailer-Kijabe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Westlands',
+                name: 'Rachuonyo-North',
                 y: 2,
-                drilldown: 'trailer-Westlands',
+                drilldown: 'trailer-Rachuonyo-North',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kilimani',
+                name: 'Rachuonyo-South',
                 y: 1,
-                drilldown: 'trailer-Kilimani',
+                drilldown: 'trailer-Rachuonyo-South',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Upper-Hill',
+                name: 'Rachuonyo-East',
                 y: 15,
-                drilldown: 'trailer-Upper-Hill',
+                drilldown: 'trailer-Rachuonyo-East',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Kombo',
+                name: 'Rangwe',
                 y: 2,
-                drilldown: 'trailer-Kombo',
+                drilldown: 'trailer-Rangwe',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Comm',
+                name: 'Suba-North',
                 y: 11,
-                drilldown: 'trailer-Comm',
+                drilldown: 'trailer-Suba-North',
                 //color: '#0aae8f' // blue
             }, {
                 name: 'Ngara',
@@ -629,24 +629,24 @@ $(function () {
                 drilldown: 'trailer-Ngara',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Highridge',
+                name: 'Kalanya',
                 y: 7,
-                drilldown: 'trailer-Highridge',
+                drilldown: 'trailer-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Ind. Area',
+                name: 'Kalanya',
                 y: 13,
-                drilldown: 'trailer-Ind. Area',
+                drilldown: 'trailer-Kalanya',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Yaya',
+                name: 'Kanyabala',
                 y: 5,
-                drilldown: 'trailer-Yaya',
+                drilldown: 'trailer-Kanyabala',
                 //color: '#0aae8f' // blue
             }, {
-                name: 'Buru',
+                name: 'Katuma',
                 y: 2,
-                drilldown: 'trailer-Buru',
+                drilldown: 'trailer-Katuma',
                 //color: '#0aae8f' // blue
             }]
             //end of trailer collections
@@ -660,7 +660,7 @@ $(function () {
                 //Private collections by months and dates
                 {
                     id: 'Private-CBD',
-                    name: 'Private collections in CBD 2020',
+                    name: 'Private collections in Homa Bay Town 2020',
                     data: [
                         ['1st CBD', 4],
                         ['2nd CBD', 2],
@@ -676,47 +676,47 @@ $(function () {
                         ['2nd Kijabe', 2]
                     ]
                 }, {
-                    id: 'Private-Westlands',
-                    name: 'Private collections in Westlands 2020',
+                    id: 'Private-Rachuonyo-North',
+                    name: 'Private collections in Rachuonyo-North 2020',
                     data: [
-                        ['1st Westlands', 4],
-                        ['2nd Westlands', 2],
-                        ['3rd Westlands', 2]
+                        ['1st Rachuonyo-North', 4],
+                        ['2nd Rachuonyo-North', 2],
+                        ['3rd Rachuonyo-North', 2]
                     ]
                 }, {
-                    id: 'Private-Kilimani',
-                    name: 'Private collections in Kilimani 2020',
+                    id: 'Private-Rachuonyo-South',
+                    name: 'Private collections in Rachuonyo-South 2020',
                     data: [
-                        ['1st Kilimani', 4],
-                        ['2nd Kilimani', 2],
-                        ['3rd Kilimani', 1],
-                        ['4th Kilimani', 2],
-                        ['5th Kilimani', 1]
+                        ['1st Rachuonyo-South', 4],
+                        ['2nd Rachuonyo-South', 2],
+                        ['3rd Rachuonyo-South', 1],
+                        ['4th Rachuonyo-South', 2],
+                        ['5th Rachuonyo-South', 1]
                     ]
                 }, {
-                    id: 'Private-Upper-Hill',
-                    name: 'Private collections in Upper-Hill 2020',
+                    id: 'Private-Rachuonyo-East',
+                    name: 'Private collections in Rachuonyo-East 2020',
                     data: [
-                        ['1st Upper-Hill', 4],
-                        ['2nd Upper-Hill', 2]
+                        ['1st Rachuonyo-East', 4],
+                        ['2nd Rachuonyo-East', 2]
                     ]
                 }, {
-                    id: 'Private-Kombo',
-                    name: 'Private collections in Kombo 2020',
+                    id: 'Private-Rangwe',
+                    name: 'Private collections in Rangwe 2020',
                     data: [
-                        ['1st Kombo', 4],
-                        ['2nd Kombo', 2],
-                        ['3rd Kombo', 2]
+                        ['1st Rangwe', 4],
+                        ['2nd Rangwe', 2],
+                        ['3rd Rangwe', 2]
                     ]
                 }, {
-                    id: 'Private-Comm',
-                    name: 'Private collections in Comm 2020',
+                    id: 'Private-Suba-North',
+                    name: 'Private collections in Suba-North 2020',
                     data: [
-                        ['1st Comm', 4],
-                        ['2nd Comm', 2],
-                        ['3rd Comm', 1],
-                        ['4th Comm', 2],
-                        ['5th Comm', 1]
+                        ['1st Suba-North', 4],
+                        ['2nd Suba-North', 2],
+                        ['3rd Suba-North', 1],
+                        ['4th Suba-North', 2],
+                        ['5th Suba-North', 1]
                     ]
                 }, {
                     id: 'Private-Ngara',
@@ -726,37 +726,37 @@ $(function () {
                         ['2nd Ngara', 2]
                     ]
                 }, {
-                    id: 'Private-Highridge',
-                    name: 'Private collections in Highridge 2020',
+                    id: 'Private-Kalanya',
+                    name: 'Private collections in Kalanya 2020',
                     data: [
-                        ['1st Highridge', 4],
-                        ['2nd Highridge', 2],
-                        ['3rd Highridge', 2]
+                        ['1st Kalanya', 4],
+                        ['2nd Kalanya', 2],
+                        ['3rd Kalanya', 2]
                     ]
                 }, {
-                    id: 'Private-Ind. Area',
-                    name: 'Private collections in Ind. Area 2020',
+                    id: 'Private-Kalanya',
+                    name: 'Private collections in Kalanya 2020',
                     data: [
-                        ['1st Ind. Area', 4],
-                        ['2nd Ind. Area', 2],
-                        ['3rd Ind. Area', 1],
-                        ['4th Ind. Area', 2],
-                        ['5th Ind. Area', 1]
+                        ['1st Kalanya', 4],
+                        ['2nd Kalanya', 2],
+                        ['3rd Kalanya', 1],
+                        ['4th Kalanya', 2],
+                        ['5th Kalanya', 1]
                     ]
                 }, {
-                    id: 'Private-Yaya',
-                    name: 'Private collections in Yaya 2020',
+                    id: 'Private-Kanyabala',
+                    name: 'Private collections in Kanyabala 2020',
                     data: [
-                        ['1st Yaya', 4],
-                        ['2nd Yaya', 2]
+                        ['1st Kanyabala', 4],
+                        ['2nd Kanyabala', 2]
                     ]
                 }, {
-                    id: 'Private-Buru',
-                    name: 'Private collections in Buru  2020',
+                    id: 'Private-Katuma',
+                    name: 'Private collections in Katuma  2020',
                     data: [
-                        ['1st Buru', 4],
-                        ['2nd Buru', 2],
-                        ['3rd Buru', 2]
+                        ['1st Katuma', 4],
+                        ['2nd Katuma', 2],
+                        ['3rd Katuma', 2]
                     ]
                 },
 
@@ -781,50 +781,50 @@ $(function () {
                         ['2nd Kijabe', 5]
                     ]
                 }, {
-                    id: 'lr-Westlands',
-                    name: 'Landrates revenue collections for Westlands 2020',
+                    id: 'lr-Rachuonyo-North',
+                    name: 'Landrates revenue collections for Rachuonyo-North 2020',
                     data: [
-                        ['1st Westlands', 2],
-                        ['2nd Westlands', 3],
-                        ['3rd Westlands', 2]
+                        ['1st Rachuonyo-North', 2],
+                        ['2nd Rachuonyo-North', 3],
+                        ['3rd Rachuonyo-North', 2]
                     ]
                 }, {
-                    id: 'lr-Kilimani',
-                    name: 'Landrates revenue collections for Kilimani 2020',
+                    id: 'lr-Rachuonyo-South',
+                    name: 'Landrates revenue collections for Rachuonyo-South 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Kilimani', 2],
-                        ['2nd Kilimani', 3],
-                        ['3rd Kilimani', 1],
-                        ['4th Kilimani', 1],
-                        ['5th Kilimani', 1]
+                        ['1st Rachuonyo-South', 2],
+                        ['2nd Rachuonyo-South', 3],
+                        ['3rd Rachuonyo-South', 1],
+                        ['4th Rachuonyo-South', 1],
+                        ['5th Rachuonyo-South', 1]
                     ]
                 }, {
-                    id: 'lr-Upper-Hill',
-                    name: 'Landrates revenue collections for Upper-Hill 2020',
+                    id: 'lr-Rachuonyo-East',
+                    name: 'Landrates revenue collections for Rachuonyo-East 2020',
                     /*  stack: 1, */
                     data: [
-                        ['1st Upper-Hill', 4],
-                        ['2nd Upper-Hill', 3]
+                        ['1st Rachuonyo-East', 4],
+                        ['2nd Rachuonyo-East', 3]
                     ]
                 }, {
-                    id: 'lr-Kombo',
-                    name: 'Landrates revenue collections for Kombo 2020',
+                    id: 'lr-Rangwe',
+                    name: 'Landrates revenue collections for Rangwe 2020',
                     /* stack: 1, */
                     data: [
-                        ['1st Kombo', 4],
-                        ['2nd Kombo', 3],
-                        ['3rd Kombo', 3]
+                        ['1st Rangwe', 4],
+                        ['2nd Rangwe', 3],
+                        ['3rd Rangwe', 3]
                     ]
                 }, {
-                    id: 'lr-Comm',
-                    name: 'Landrates revenue collections for Comm 2020',
+                    id: 'lr-Suba-North',
+                    name: 'Landrates revenue collections for Suba-North 2020',
                     data: [
-                        ['1st Comm', 3],
-                        ['2nd Comm', 5],
-                        ['3rd Comm', 6],
-                        ['4th Comm', 2],
-                        ['5th Comm', 2]
+                        ['1st Suba-North', 3],
+                        ['2nd Suba-North', 5],
+                        ['3rd Suba-North', 6],
+                        ['4th Suba-North', 2],
+                        ['5th Suba-North', 2]
                     ]
                 }, {
                     id: 'lr-Ngara',
@@ -834,52 +834,52 @@ $(function () {
                         ['2nd Ngara', 5]
                     ]
                 }, {
-                    id: 'lr-Highridge',
-                    name: 'Landrates revenue collections for Highridge 2020',
+                    id: 'lr-Kalanya',
+                    name: 'Landrates revenue collections for Kalanya 2020',
                     data: [
-                        ['1st Highridge', 2],
-                        ['2nd Highridge', 3],
-                        ['3rd Highridge', 2]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 2]
                     ]
                 }, {
-                    id: 'lr-Ind. Area',
-                    name: 'Landrates revenue collections for Ind. Area 2020',
+                    id: 'lr-Kalanya',
+                    name: 'Landrates revenue collections for Kalanya 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Ind. Area', 2],
-                        ['2nd Ind. Area', 3],
-                        ['3rd Ind. Area', 1],
-                        ['4th Ind. Area', 1],
-                        ['5th Ind. Area', 1]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 1],
+                        ['4th Kalanya', 1],
+                        ['5th Kalanya', 1]
                     ]
                 }, {
-                    id: 'lr-Yaya',
-                    name: 'Landrates revenue collections for Yaya 2020',
+                    id: 'lr-Kanyabala',
+                    name: 'Landrates revenue collections for Kanyabala 2020',
                     /*  stack: 1, */
                     data: [
-                        ['1st Yaya', 4],
-                        ['2nd Yaya', 3]
+                        ['1st Kanyabala', 4],
+                        ['2nd Kanyabala', 3]
                     ]
                 }, {
-                    id: 'lr-Buru',
-                    name: 'Landrates revenue collections for Buru 2020',
+                    id: 'lr-Katuma',
+                    name: 'Landrates revenue collections for Katuma 2020',
                     /* stack: 1, */
                     data: [
-                        ['1st Buru', 4],
-                        ['2nd Buru', 3],
-                        ['3rd Buru', 3]
+                        ['1st Katuma', 4],
+                        ['2nd Katuma', 3],
+                        ['3rd Katuma', 3]
                     ]
                 },
 				
 				//start of SBP daily collections
 				 {
-                    id: 'sbp-Buru',
-                    name: 'SBP collections for Buru 2020',
+                    id: 'sbp-Katuma',
+                    name: 'SBP collections for Katuma 2020',
                     /* stack: 1, */
                     data: [
-                        ['1st Buru', 4],
-                        ['2nd Buru', 3],
-                        ['3rd Buru', 3]
+                        ['1st Katuma', 4],
+                        ['2nd Katuma', 3],
+                        ['3rd Katuma', 3]
                     ]
                 },{
                     id: 'sbp-CBD',
@@ -899,50 +899,50 @@ $(function () {
                         ['2nd Kijabe', 5]
                     ]
                 }, {
-                    id: 'sbp-Westlands',
-                    name: 'SBP collections for Westlands 2020',
+                    id: 'sbp-Rachuonyo-North',
+                    name: 'SBP collections for Rachuonyo-North 2020',
                     data: [
-                        ['1st Westlands', 2],
-                        ['2nd Westlands', 3],
-                        ['3rd Westlands', 2]
+                        ['1st Rachuonyo-North', 2],
+                        ['2nd Rachuonyo-North', 3],
+                        ['3rd Rachuonyo-North', 2]
                     ]
                 }, {
-                    id: 'sbp-Kilimani',
-                    name: 'Landrates revenue collections for Kilimani 2020',
+                    id: 'sbp-Rachuonyo-South',
+                    name: 'Landrates revenue collections for Rachuonyo-South 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Kilimani', 2],
-                        ['2nd Kilimani', 3],
-                        ['3rd Kilimani', 1],
-                        ['4th Kilimani', 1],
-                        ['5th Kilimani', 1]
+                        ['1st Rachuonyo-South', 2],
+                        ['2nd Rachuonyo-South', 3],
+                        ['3rd Rachuonyo-South', 1],
+                        ['4th Rachuonyo-South', 1],
+                        ['5th Rachuonyo-South', 1]
                     ]
                 }, {
-                    id: 'sbp-Upper-Hill',
-                    name: 'SBP collections for Upper-Hill 2020',
+                    id: 'sbp-Rachuonyo-East',
+                    name: 'SBP collections for Rachuonyo-East 2020',
                     /*  stack: 1, */
                     data: [
-                        ['1st Upper-Hill', 4],
-                        ['2nd Upper-Hill', 3]
+                        ['1st Rachuonyo-East', 4],
+                        ['2nd Rachuonyo-East', 3]
                     ]
                 }, {
-                    id: 'sbp-Kombo',
-                    name: 'SBP collections for Kombo 2020',
+                    id: 'sbp-Rangwe',
+                    name: 'SBP collections for Rangwe 2020',
                     /* stack: 1, */
                     data: [
-                        ['1st Kombo', 4],
-                        ['2nd Kombo', 3],
-                        ['3rd Kombo', 3]
+                        ['1st Rangwe', 4],
+                        ['2nd Rangwe', 3],
+                        ['3rd Rangwe', 3]
                     ]
                 }, {
-                    id: 'sbp-Comm',
-                    name: 'SBP collections for Comm 2020',
+                    id: 'sbp-Suba-North',
+                    name: 'SBP collections for Suba-North 2020',
                     data: [
-                        ['1st Comm', 3],
-                        ['2nd Comm', 5],
-                        ['3rd Comm', 6],
-                        ['4th Comm', 2],
-                        ['5th Comm', 2]
+                        ['1st Suba-North', 3],
+                        ['2nd Suba-North', 5],
+                        ['3rd Suba-North', 6],
+                        ['4th Suba-North', 2],
+                        ['5th Suba-North', 2]
                     ]
                 }, {
                     id: 'sbp-Ngara',
@@ -952,35 +952,35 @@ $(function () {
                         ['2nd Ngara', 5]
                     ]
                 }, {
-                    id: 'sbp-Highridge',
-                    name: 'SBP collections for Highridge 2020',
+                    id: 'sbp-Kalanya',
+                    name: 'SBP collections for Kalanya 2020',
                     data: [
-                        ['1st Highridge', 2],
-                        ['2nd Highridge', 3],
-                        ['3rd Highridge', 2]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 2]
                     ]
                 }, {
-                    id: 'sbp-Ind. Area',
-                    name: 'SBP collections for Ind. Area 2020',
+                    id: 'sbp-Kalanya',
+                    name: 'SBP collections for Kalanya 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Ind. Area', 2],
-                        ['2nd Ind. Area', 3],
-                        ['3rd Ind. Area', 1],
-                        ['4th Ind. Area', 1],
-                        ['5th Ind. Area', 1]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 1],
+                        ['4th Kalanya', 1],
+                        ['5th Kalanya', 1]
                     ]
                 },
 				{
-                    id: 'sbp-Yaya',
-                    name: 'SBP collections for Ind. Area 2020',
+                    id: 'sbp-Kanyabala',
+                    name: 'SBP collections for Kalanya 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Ind. Area', 2],
-                        ['2nd Ind. Area', 3],
-                        ['3rd Ind. Area', 1],
-                        ['4th Ind. Area', 1],
-                        ['5th Ind. Area', 1]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 1],
+                        ['4th Kalanya', 1],
+                        ['5th Kalanya', 1]
                     ]
                 },
 				//end of SBP collections
@@ -1004,50 +1004,50 @@ $(function () {
                         ['2nd Kijabe', 5]
                     ]
                 }, {
-                    id: 'market-Westlands',
-                    name: 'Market fee collections for Westlands 2020',
+                    id: 'market-Rachuonyo-North',
+                    name: 'Market fee collections for Rachuonyo-North 2020',
                     data: [
-                        ['1st Westlands', 2],
-                        ['2nd Westlands', 3],
-                        ['3rd Westlands', 2]
+                        ['1st Rachuonyo-North', 2],
+                        ['2nd Rachuonyo-North', 3],
+                        ['3rd Rachuonyo-North', 2]
                     ]
                 }, {
-                    id: 'market-Kilimani',
-                    name: 'Market fee collections for Kilimani 2020',
+                    id: 'market-Rachuonyo-South',
+                    name: 'Market fee collections for Rachuonyo-South 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Kilimani', 2],
-                        ['2nd Kilimani', 3],
-                        ['3rd Kilimani', 1],
-                        ['4th Kilimani', 1],
-                        ['5th Kilimani', 1]
+                        ['1st Rachuonyo-South', 2],
+                        ['2nd Rachuonyo-South', 3],
+                        ['3rd Rachuonyo-South', 1],
+                        ['4th Rachuonyo-South', 1],
+                        ['5th Rachuonyo-South', 1]
                     ]
                 }, {
-                    id: 'market-Upper-Hill',
-                    name: 'Market fee collections for Upper-Hill 2020',
+                    id: 'market-Rachuonyo-East',
+                    name: 'Market fee collections for Rachuonyo-East 2020',
                     /*  stack: 1, */
                     data: [
-                        ['1st Upper-Hill', 4],
-                        ['2nd Upper-Hill', 3]
+                        ['1st Rachuonyo-East', 4],
+                        ['2nd Rachuonyo-East', 3]
                     ]
                 }, {
-                    id: 'market-Kombo',
-                    name: 'Market fee collections for Kombo 2020',
+                    id: 'market-Rangwe',
+                    name: 'Market fee collections for Rangwe 2020',
                     /* stack: 1, */
                     data: [
-                        ['1st Kombo', 4],
-                        ['2nd Kombo', 3],
-                        ['3rd Kombo', 3]
+                        ['1st Rangwe', 4],
+                        ['2nd Rangwe', 3],
+                        ['3rd Rangwe', 3]
                     ]
                 }, {
-                    id: 'market-Comm',
-                    name: 'Market fee collections for Comm 2020',
+                    id: 'market-Suba-North',
+                    name: 'Market fee collections for Suba-North 2020',
                     data: [
-                        ['1st Comm', 3],
-                        ['2nd Comm', 5],
-                        ['3rd Comm', 6],
-                        ['4th Comm', 2],
-                        ['5th Comm', 2]
+                        ['1st Suba-North', 3],
+                        ['2nd Suba-North', 5],
+                        ['3rd Suba-North', 6],
+                        ['4th Suba-North', 2],
+                        ['5th Suba-North', 2]
                     ]
                 }, {
                     id: 'market-Ngara',
@@ -1057,40 +1057,40 @@ $(function () {
                         ['2nd Ngara', 5]
                     ]
                 }, {
-                    id: 'market-Highridge',
-                    name: 'Market fee collections for Highridge 2020',
+                    id: 'market-Kalanya',
+                    name: 'Market fee collections for Kalanya 2020',
                     data: [
-                        ['1st Highridge', 2],
-                        ['2nd Highridge', 3],
-                        ['3rd Highridge', 2]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 2]
                     ]
                 }, {
-                    id: 'market-Ind. Area',
-                    name: 'Market fee collections for Ind. Area 2020',
+                    id: 'market-Kalanya',
+                    name: 'Market fee collections for Kalanya 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Ind. Area', 2],
-                        ['2nd Ind. Area', 3],
-                        ['3rd Ind. Area', 1],
-                        ['4th Ind. Area', 1],
-                        ['5th Ind. Area', 1]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 1],
+                        ['4th Kalanya', 1],
+                        ['5th Kalanya', 1]
                     ]
                 }, {
-                    id: 'market-Yaya',
-                    name: 'Market fee collections for Yaya 2020',
+                    id: 'market-Kanyabala',
+                    name: 'Market fee collections for Kanyabala 2020',
                     /*  stack: 1, */
                     data: [
-                        ['1st Yaya', 4],
-                        ['2nd Yaya', 3]
+                        ['1st Kanyabala', 4],
+                        ['2nd Kanyabala', 3]
                     ]
                 }, {
-                    id: 'market-Buru',
-                    name: 'Market fee collections for Buru 2020',
+                    id: 'market-Katuma',
+                    name: 'Market fee collections for Katuma 2020',
                     /* stack: 1, */
                     data: [
-                        ['1st Buru', 4],
-                        ['2nd Buru', 3],
-                        ['3rd Buru', 3]
+                        ['1st Katuma', 4],
+                        ['2nd Katuma', 3],
+                        ['3rd Katuma', 3]
                     ]
                 },
 				
@@ -1114,50 +1114,50 @@ $(function () {
                         ['2nd Kijabe', 5]
                     ]
                 }, {
-                    id: 'rent-Westlands',
-                    name: 'Lorry for Westlands 2020',
+                    id: 'rent-Rachuonyo-North',
+                    name: 'Lorry for Rachuonyo-North 2020',
                     data: [
-                        ['1st Westlands', 2],
-                        ['2nd Westlands', 3],
-                        ['3rd Westlands', 2]
+                        ['1st Rachuonyo-North', 2],
+                        ['2nd Rachuonyo-North', 3],
+                        ['3rd Rachuonyo-North', 2]
                     ]
                 }, {
-                    id: 'rent-Kilimani',
-                    name: 'Lorry for Kilimani 2020',
+                    id: 'rent-Rachuonyo-South',
+                    name: 'Lorry for Rachuonyo-South 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Kilimani', 2],
-                        ['2nd Kilimani', 3],
-                        ['3rd Kilimani', 1],
-                        ['4th Kilimani', 1],
-                        ['5th Kilimani', 1]
+                        ['1st Rachuonyo-South', 2],
+                        ['2nd Rachuonyo-South', 3],
+                        ['3rd Rachuonyo-South', 1],
+                        ['4th Rachuonyo-South', 1],
+                        ['5th Rachuonyo-South', 1]
                     ]
                 }, {
-                    id: 'rent-Upper-Hill',
-                    name: 'Lorry for Upper-Hill 2020',
+                    id: 'rent-Rachuonyo-East',
+                    name: 'Lorry for Rachuonyo-East 2020',
                     /*  stack: 1, */
                     data: [
-                        ['1st Upper-Hill', 4],
-                        ['2nd Upper-Hill', 3]
+                        ['1st Rachuonyo-East', 4],
+                        ['2nd Rachuonyo-East', 3]
                     ]
                 }, {
-                    id: 'rent-Kombo',
-                    name: 'Lorry for Kombo 2020',
+                    id: 'rent-Rangwe',
+                    name: 'Lorry for Rangwe 2020',
                     /* stack: 1, */
                     data: [
-                        ['1st Kombo', 4],
-                        ['2nd Kombo', 3],
-                        ['3rd Kombo', 3]
+                        ['1st Rangwe', 4],
+                        ['2nd Rangwe', 3],
+                        ['3rd Rangwe', 3]
                     ]
                 }, {
-                    id: 'rent-Comm',
-                    name: 'Lorry for Comm 2020',
+                    id: 'rent-Suba-North',
+                    name: 'Lorry for Suba-North 2020',
                     data: [
-                        ['1st Comm', 3],
-                        ['2nd Comm', 5],
-                        ['3rd Comm', 6],
-                        ['4th Comm', 2],
-                        ['5th Comm', 2]
+                        ['1st Suba-North', 3],
+                        ['2nd Suba-North', 5],
+                        ['3rd Suba-North', 6],
+                        ['4th Suba-North', 2],
+                        ['5th Suba-North', 2]
                     ]
                 }, {
                     id: 'rent-Ngara',
@@ -1167,40 +1167,40 @@ $(function () {
                         ['2nd Ngara', 5]
                     ]
                 }, {
-                    id: 'rent-Highridge',
-                    name: 'Lorry for Highridge 2020',
+                    id: 'rent-Kalanya',
+                    name: 'Lorry for Kalanya 2020',
                     data: [
-                        ['1st Highridge', 2],
-                        ['2nd Highridge', 3],
-                        ['3rd Highridge', 2]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 2]
                     ]
                 }, {
-                    id: 'rent-Ind. Area',
-                    name: 'Lorry for Ind. Area 2020',
+                    id: 'rent-Kalanya',
+                    name: 'Lorry for Kalanya 2020',
                     /*   stack: 1, */
                     data: [
-                        ['1st Ind. Area', 2],
-                        ['2nd Ind. Area', 3],
-                        ['3rd Ind. Area', 1],
-                        ['4th Ind. Area', 1],
-                        ['5th Ind. Area', 1]
+                        ['1st Kalanya', 2],
+                        ['2nd Kalanya', 3],
+                        ['3rd Kalanya', 1],
+                        ['4th Kalanya', 1],
+                        ['5th Kalanya', 1]
                     ]
                 }, {
-                    id: 'rent-Yaya',
-                    name: 'Lorry for Yaya 2020',
+                    id: 'rent-Kanyabala',
+                    name: 'Lorry for Kanyabala 2020',
                     /*  stack: 1, */
                     data: [
-                        ['1st Yaya', 4],
-                        ['2nd Yaya', 3]
+                        ['1st Kanyabala', 4],
+                        ['2nd Kanyabala', 3]
                     ]
                 }, {
-                    id: 'rent-Buru',
-                    name: 'Lorry for Buru 2020',
+                    id: 'rent-Katuma',
+                    name: 'Lorry for Katuma 2020',
                     /* stack: 1, */
                     data: [
-                        ['1st Buru', 4],
-                        ['2nd Buru', 3],
-                        ['3rd Buru', 3]
+                        ['1st Katuma', 4],
+                        ['2nd Katuma', 3],
+                        ['3rd Katuma', 3]
                     ]
                 },
 				
@@ -1227,7 +1227,7 @@ Highcharts.chart('RevenueStreams', {
         }
     },
     xAxis: {
-        categories: ['CBD', 'Kijabe', 'Westlands', 'Kilimani', 'Upper-Hill', 'Kombo', 'Comm', 'Ngara', 'Highridge', 'Ind. Area', 'Yaya', 'Buru']
+        categories: ['CBD', 'Kijabe', 'Rachuonyo-North', 'Rachuonyo-South', 'Rachuonyo-East', 'Rangwe', 'Suba-North', 'Ngara', 'Kalanya', 'Kalanya', 'Kanyabala', 'Katuma']
     },
     yAxis: {
         gridLineColor: '#197F07',
